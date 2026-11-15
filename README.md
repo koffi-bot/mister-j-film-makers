@@ -1,21 +1,21 @@
-# MISTER J FILM MAKERS
+# MISTER_J FILMMAKERS
 
-Portfolio vitrine responsive pour un studio de création et de production audiovisuelle.
+Portfolio statique responsive du studio de production cinématographique basé à Kinshasa, RDC — disponible worldwide.
 
-## Fichiers
-- `index.html` : contenu du site et structure des sections.
-- `styles.css` : identité visuelle sombre, accent cuivre, mise en page responsive.
-- `script.js` : navigation mobile, animations d'apparition, année dynamique.
-- `assets/favicon.svg` : monogramme temporaire MJ.
+## Identité
+- Signature : **WE CREATE A FUCKIN’ CINEMA.**
+- Direction : Dark Cinematic Luxury
+- Couleurs : Obsidian Black #08090B, Graphite #171A1F, Cinematic White #F1F0EC, Champagne Gold #C5A45A, Steel Blue #71818C.
 
-## Lancer le site
-Site statique sans backend ni dépendances npm. Ouvrir `index.html` dans un navigateur ou utiliser un hébergeur statique avec le dossier racine comme publication.
+## Structure
+- `index.html` : contenu du portfolio et galerie vidéo.
+- `styles.css` : styles responsive.
+- `script.js` : navigation mobile et animations.
+- `assets/` : identité visuelle et ressources du site.
 
-## Éléments à valider avec le studio avant publication définitive
-- Logo officiel et identité graphique validée.
-- Présentation exacte, équipe et localisation.
-- Liste réelle des prestations.
-- Réalisations : titres, photos/vidéos, dates, rôles et crédits.
-- Adresse e-mail, téléphone/WhatsApp et réseaux sociaux officiels.
+## Déploiement GitHub Pages
+Le workflow `.github/workflows/pages.yml` publie automatiquement le site à chaque push sur `main`.
+Dans GitHub, ouvrir **Settings → Pages** et choisir **GitHub Actions** comme source si ce n'est pas déjà activé.
 
-La galerie n'invente aucune réalisation. Le contact direct n'affiche pas d'adresse tant que celle-ci n'a pas été confirmée.
+## À compléter
+Les 4 vidéos YouTube transmises sont intégrées dans la galerie. Les photos originales et les coordonnées officielles (WhatsApp, Instagram, email) doivent encore être ajoutées/confirmées. Aucun visuel de tournage ni numéro n'est inventé.
